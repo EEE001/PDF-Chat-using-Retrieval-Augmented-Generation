@@ -29,3 +29,14 @@ The project demonstrates an **end-to-end RAG pipeline** for document understandi
 ---
 
 ## 🗂️ Repository Structure
+pdf-chat-rag/
+├── PDF_Chat_using_Retrieval_Augmented_Generation.ipynb
+├── dataset/
+│ ├── README.md
+│ ├── Company_GreenFields BioTech.docx
+│ ├── Company_QuantumNext Systems.docx
+│ ├── Company_TechWave Innovations.docx
+│ ├── GreenGrow Innovations_Company History.docx
+│ └── GreenGrow's EcoHarvest System_A Revolution in Farming.pdf
+├── requirements.txt
+└── README.md
